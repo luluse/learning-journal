@@ -3,5 +3,5 @@
 ### Heading 3
 
 ### Growth Mindset
--This is my first reminder
--This is my second reminder
+- This is my first reminder
+- This is my second reminder
