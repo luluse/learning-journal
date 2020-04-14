@@ -5,8 +5,8 @@
 
 ## Table of contents:
 
-- [Growth Mindset](https://luluse.github.io/learning-journal/growthindset)
-- [Learning Markdown](https://luluse.github.io/learning-journal/Read01Markdown)
-- [The Coder's Computer](https://luluse.github.io/learning-journal/Read02)
-- [Git & GitHub](https://luluse.github.io/learning-journal/lab03)
+- [Growth Mindset](https://luluse.github.io/learning-journal/learningjournal/growthindset)
+- [Learning Markdown](https://luluse.github.io/learning-journal/learningjournal/Read01Markdown)
+- [The Coder's Computer](https://luluse.github.io/learning-journal/learningjournal/Read02)
+- [Git & GitHub](https://luluse.github.io/learning-journal/learningjournal/lab03)
 
