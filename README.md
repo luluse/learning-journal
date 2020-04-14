@@ -1,7 +1,8 @@
 # learning-journal
 #### Code 102 learning journal
 
-## Intro:
+## Intro: 
+Hi, I'm Lulu. Welcome to my learning journal!
 
 ## Table of contents:
 
