@@ -13,6 +13,7 @@
 - Version control system
 - Let multiple Developers work on the same code
 - Keeps an history of changes to your files
+- Mistakes with files can easily be rectified
 - Ability to view, apply, remove changes 
 - Keep all projects files in one repository
 
@@ -31,7 +32,16 @@ Github is the collaboration piece:
 - Way to share code with others
 - Online place to store code
 
-## Tu sum up:
+## How to push files to GihHub through terminal?
+
+- Be in the right Folder
+- git status
+- git add .
+- git status
+- git commit -m "describe what you're changing"
+- git push origin master
+
+## To sum up:
 
 Git is a place where people work together. Git is what is controlling the version piece.
 
