@@ -6,8 +6,8 @@ Hi, I'm Lulu. Welcome to my learning journal!
 
 ## Table of contents:
 
-- [Growth Mindset](https://luluse.github.io/learning-journal/learningjournal/growthmindset)
-- [Learning Markdown](https://luluse.github.io/learning-journal/learningjournal/Read01Markdown)
-- [The Coder's Computer](https://luluse.github.io/learning-journal/learningjournal/Read02)
-- [Git & GitHub](https://luluse.github.io/learning-journal/learningjournal/lab03)
+- [Growth Mindset](./learningjournal/growthmindset.md)
+- [Learning Markdown](./learningjournal/Read01Markdown.md)
+- [The Coder's Computer](./learningjournal/Read02.md)
+- [Git & GitHub](./learningjournal/lab03.md)
 
