@@ -11,4 +11,5 @@ Hi, I'm Lulu. Welcome to my learning journal!
 - [The Coder's Computer](./learningjournal/Read02.md)
 - [Git & GitHub](./learningjournal/lab03.md)
 - [Structure web pages with HTML](./learningjournal/Read04.md)
+- [CSS](./learningjournal/read05.md)
 
