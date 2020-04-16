@@ -12,7 +12,7 @@ Css works like an invisible box around every HTML element. It allows you to crea
 
 ### How to link you CSS sheet to your HTML sheet :
 
-`<link href=”css/style.css” type=”text/css” rel=”stylesheet” />` This element lives inside the head of your HTML sheet.
+`<link href=”styles.css” type=”text/css” rel=”stylesheet” />` This element lives inside the head of your HTML sheet.
 
 ### Commonly used selectors:
 
@@ -20,7 +20,7 @@ Css works like an invisible box around every HTML element. It allows you to crea
 - Class selector `.note {}` Targets any element whose class attribute has a value of note.
 - ID selector `#introduction {}` Targets elements whose id attribute has a value of introduction. 
 
-### Advantages to place CSS rules in a seperate style sheet:
+### Advantages to place CSS rules in a separate style sheet:
 
 - All of your web pages can share the same style sheet
 - Website will load faster
@@ -49,7 +49,7 @@ Opacity is a value between 0 and 1. Two ways to use it:
 - `p { background-color: rgb(100,150,90) ; opacity: 0.5 ; }` 
 - `p { background-color: rgb(100,150,90) ; background-color: rgba(100,150,90, 0.5) ; }` 
 
-### HLS colors
+### HSL colors
 
 Hue has values from 0 to 360
 

@@ -12,4 +12,4 @@ Hi, I'm Lulu. Welcome to my learning journal!
 - [Git & GitHub](./learningjournal/lab03.md)
 - [Structure web pages with HTML](./learningjournal/Read04.md)
 - [CSS](./learningjournal/read05.md)
-
+- [Dynamic web pages with JavaScript](./learningjournal/read06a.md)
