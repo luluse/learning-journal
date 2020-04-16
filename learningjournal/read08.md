@@ -51,3 +51,6 @@ Condition is made of 3 statements:
 - **initialization**. Create a variable and set it to 0 `var i = 0;`
 - **condition**. The loop should continue until the counter reaches a specified number `i < 10;`
 - **update**. Everytime the loop runs, it adds one to the counter `i++`
+
+A **while** loop will continue to run as long as the condition in the parenthesis are true.
+`while (i < 10)`
