@@ -15,3 +15,4 @@ Hi, I'm Lulu. Welcome to my learning journal!
 - [Dynamic web pages with JavaScript](./learningjournal/read06a.md)
 - [Computer Architecture and Logic](./learningjournal/read06b.md)
 - [Programming with JavaScript](./learningjournal/read07.md)
+- [Operators and Loops](./learningjournal/read08.md)
