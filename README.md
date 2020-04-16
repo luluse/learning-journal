@@ -13,3 +13,4 @@ Hi, I'm Lulu. Welcome to my learning journal!
 - [Structure web pages with HTML](./learningjournal/Read04.md)
 - [CSS](./learningjournal/read05.md)
 - [Dynamic web pages with JavaScript](./learningjournal/read06a.md)
+- [Computer Architecture and Logic](./learningjournal/read06b.md)
